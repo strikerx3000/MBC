@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,panorama 1
+rtmp://web5.iptv-planet.com:1937/live2/pd?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,panorama 2
+rtmp://web5.iptv-planet.com:1937/live2/pd2?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,Rotana Clip
+rtmp://web3.iptv-planet.com:1937/live2/rc?hashedkey=084104117032074117110032048057032048053032050054
+#EXTINF:-1,cbc
+rtmp://web4.iptv-planet.com:1937/live2/cbc?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,cbc drama
+rtmp://web4.iptv-planet.com:1937/live2/cbcd?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,mbc action
+rtmp://web5.iptv-planet.com:81/live2/Hi_mbcaction?hashedkey=084104117032074117110032048057032048053032050048
+#EXTINF:-1,hanibbal
+rtmp://web4.iptv-planet.com:1937/live2/h?hashedkey=084104117032074117110032048057032048053032050048
+#EXTINF:-1,tunisia 1
+rtmp://web1.iptv-planet.com:1937/live2/t1?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,tunisia 2
+rtmp://web1.iptv-planet.com:81/live2/t2?hashedkey=084104117032074117110032048057032048053032050049
+#EXTINF:-1,mbc 1
+rtmp://web1.iptv-planet.com:81/live2/Hi_mbc1?hashedkey=084104117032074117110032048057032048053032049056
+#EXTINF:-1,mbc masr
+rtmp://web5.iptv-planet.com:1937/live2/mbcmasr?hashedkey=084104117032074117110032048057032048053032049056
+#EXTINF:-1,mbc drama
+rtmp://web3.iptv-planet.com:81/live2/Hi_mbcdrama?hashedkey=084104117032074117110032048057032048053032049057
+#EXTINF:-1,mbc max
+rtmp://web3.iptv-planet.com:1937/live2/Hi_mbcmax?hashedkey=084104117032074117110032048057032048053032049053
+#EXTINF:-1,mbc 2
+rtmp://web4.iptv-planet.com:1937/live2/Hi_mbc2?hashedkey=084104117032074117110032048057032048053032049052
+#EXTINF:-1,mbc 3
+rtmp://web1.iptv-planet.com:1937/live2/Hi_mbc3?hashedkey=084104117032074117110032048057032048053032049049
+#EXTINF:-1,mbc 4
+rtmp://web5.iptv-planet.com:81/live2/Hi_mbc4?hashedkey=084104117032074117110032048057032048053032049052
+#EXTINF:-1,Dzair TV
+rtmp://web3.iptv-planet.com:81/live2/dzair_tv?hashedkey=084104117032074117110032048057032048053032052054
+#EXTINF:-1,Cairo Cinema
+rtmp://web3.iptv-planet.com:81/live2/cc?hashedkey=084104117032074117110032048057032048053032052054
+#EXTINF:-1,Cairo Drama
+rtmp://web3.iptv-planet.com:81/live2/cd?hashedkey=084104117032074117110032048057032048053032052054
